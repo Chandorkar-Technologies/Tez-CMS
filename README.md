@@ -16,19 +16,19 @@ TezCMS is a **high-performance, secure, and flexible** fork of WordPress, design
 ✅ **PHP Compatibility** – Seamless support for legacy PHP code and WordPress themes.  
 ✅ **1-Click Migration** – Easy migration from WordPress to TezCMS.  
 
-## 🚀 Getting Started  
-### 1️⃣ Install TezCMS  
+🚀 Getting Started  
+1️⃣ Install TezCMS  
 ```bash
 git clone https://github.com/yourusername/tezcms.git
 cd tezcms
 ```
-###2️⃣ Requirements
+**2️⃣ **Requirements**
 NodeJS
 PostgreSQL
 PHP Parser for legacy compatibility
 Composer & Node.js (for development)
 
-###🛠️ Features
+**🛠️ Features**
 PHP Code Compatibility
 TezCMS offers 1-to-1 compatibility with PHP code, ensuring that your existing WordPress PHP-based code can be used seamlessly. We provide:
 
@@ -46,13 +46,13 @@ Migrate from WordPress to TezCMS with just 1-click:
 Our migration wizard automatically imports WordPress data (posts, users, comments, metadata).
 It ensures a smooth transition with PostgreSQL schema compatibility, helping you switch seamlessly from MySQL.
 Handles plugin compatibility by identifying which plugins require minor modifications.
-### 📌 Roadmap
+**📌 Roadmap**
 📌 Phase 1: Core CMS Fork with Performance & Security Improvements
 📌 Phase 2: Plugin & Theme Marketplace
 📌 Phase 3: SaaS Platform & Cloud Hosting Options
 📌 Phase 4: AI-Powered Features & Headless CMS Mode
 
-###🤝 Contributing
+**🤝 Contributing**
 We welcome contributions from the community! To get started:
 
 Fork the repository 🍴
@@ -61,7 +61,7 @@ Make your changes and commit 📦
 Submit a pull request 🔥
 Check out our Contributing Guide for detailed steps.
 
-###📜 License
+**📜 License**
 TezCMS is licensed under GPLv3, ensuring it remains free and open-source. See LICENSE for details.
 
-###💡 Follow our journey at tezcms.org | 🌎 Join the community!
+💡 Follow our journey at tezcms.org | 🌎 Join the community!
