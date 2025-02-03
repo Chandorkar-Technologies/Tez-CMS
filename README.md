@@ -21,7 +21,7 @@ TezCMS is a **high-performance, secure, and flexible** fork of WordPress, design
 ```bash
 git clone https://github.com/yourusername/tezcms.git
 cd tezcms
-
+```
 ###2️⃣ Requirements
 NodeJS
 PostgreSQL
